@@ -1,0 +1,43 @@
+@font-face {
+  font-family:"STFangSong";
+  src:url("http://brsandbox-pro.wikidot.com/local--files/open:for-css-module/STFangSong.ttf");
+}
+
+.codeblue {
+  color:#2222FF;
+}
+
+.codered {
+  color:#EE0000;
+}
+
+.codegreen {
+  color:#00EE00;
+}
+
+.code {
+  display:flex;
+  background-color:#111111;
+}
+
+.codeyellow {
+  color:#EEEE00;
+}
+
+.codewhite {
+  color:#FFFFFF;
+}
+
+.smallcode {
+  background-color:#FFB6C1;
+  color:#FF0000;
+}
+
+.smallcodebule {
+  background-color:#6495ED;
+  color:#0000FF
+}
+
+* {
+  font-family:"STFangSong";
+}
